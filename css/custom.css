@@ -1,0 +1,13 @@
+img.site_logo {
+    width: 120px;
+}
+#about, #features, #contact {
+    background-color: #fff !important;
+}
+
+/* Hero Section*/
+@media (max-width: 420px) {
+    #hero {
+      
+    }
+  }
